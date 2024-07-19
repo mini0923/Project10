@@ -11,8 +11,6 @@ public class Ex1 {
 		int result = calc.add(10, 6);
 		System.out.println(result);
 		
-		
-		
 		System.out.println(calc.substract(10, 6));
 		System.out.println(calc.times(10, 6));
 		System.out.println(calc.divide(10, 6));
